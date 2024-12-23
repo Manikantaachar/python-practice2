@@ -1,1 +1,1 @@
-# python-practice2
+this is project just a practice
